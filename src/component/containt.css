@@ -1,0 +1,19 @@
+.tablediv{
+    position: relative;
+    left: 35%;
+    padding: 20px;
+
+}
+.table-1, th{
+    border:1px solid black;
+    width: 30%;
+    text-align: center;
+
+}
+
+.table-1 td{
+    border-right:1px solid black;
+    width: 30%;
+    text-align: center;
+
+}
